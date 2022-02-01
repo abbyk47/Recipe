@@ -4,6 +4,7 @@ Ingredients:
 - 2 tsp salt
 - onion
 - jalepeno to taste
+- 2 tbsp cilantro
 
 Instructions:
 - cut and mash avocados
@@ -11,4 +12,5 @@ Instructions:
 - chop jalepeno
 - squeeze lime
 - add salt
+- add cilantro
 - mix well
